@@ -28,7 +28,7 @@ export default function App() {
                 <About />
               </Route>
               <Route path="/users">
-                <h1>My name is boomboxblaster</h1>
+                <h1>My name is boomboxblaster or mmmmfood</h1>
               </Route>
               <Route path="/">
                 <HomePage />
