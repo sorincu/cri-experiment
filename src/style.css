@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.base-page {
+  margin-top: 80px;
+}
+
+@media only screen and (min-width: 960px) {
+  .base-page {
+    margin: 0;
+  }
+}
