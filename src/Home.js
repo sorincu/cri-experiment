@@ -34,6 +34,14 @@ const HomePage = () => {
           <Heading as="h3" align="center">
             my name is boomboxblaster
           </Heading>
+          <Box
+            border="1px"
+            borderRadius="md"
+            borderColor="primary.200"
+            bg="blue.200"
+          >
+            Card
+          </Box>
           <Text fontSize="md">A custom Section component</Text>
         </Flex>
       </Section>
